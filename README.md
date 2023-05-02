@@ -1,5 +1,5 @@
 ### Welcome here 👋👋👋 This is... <a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla">Mamdouh Elnahla</a>
-  <p>A <strong>Django</strong> Backend Developer from <b>AdDaqahliyah, Egypt</b>.</p>
+  <p>An <b>Egyption Django</b> Backend Developer.</p>
 
 ```python
 #!/usr/bin/python
@@ -21,13 +21,13 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-#### 🔧 Tech stack & Tools
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+#### 🔧 Tech stack & Skills
+  ![](https://img.shields.io/badge/Code-C?style=flat&logo=C&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Code-Python?style=flat&logo=python&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/OS-Linux?style=flat&logo=linux&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Shell-Bash?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/VCS-GitHub?style=flat&logo=github&logoColor=white&color=blue)
+  ![](https://img.shields.io/badge/Editor-VS_Code?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
  
 
 - 🌱 I’m currently learning programming at ALX sotware engineer internship.
