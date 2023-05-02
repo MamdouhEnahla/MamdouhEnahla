@@ -1,5 +1,7 @@
 ### Welcome 👋👋👋 This is... <a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla">Mamdouh Elnahla</a>
-  <p>An <b>Egyption Django</b> Backend Developer.</p>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Django%20Back-end%20web%20developer;Continuous%20learning%20makes%20Perfect!&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 ```python
 #!/usr/bin/python
@@ -17,23 +19,34 @@ class SoftwareEngineer:
         print("Welcome, hope you find something interesting.")
 
 
-me = SoftwareEngineer()
-me.say_hi()
+mamdouh = SoftwareEngineer()
+mamdouh.say_hi()
 ```
 
-#### 🔧 Tech stack & Skills
-  ![](https://img.shields.io/badge/Code-C?style=flat&logo=C&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Code-Python?style=flat&logo=python&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/OS-Linux?style=flat&logo=linux&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Shell-Bash?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/VCS-GitHub?style=flat&logo=github&logoColor=white&color=blue)
-  ![](https://img.shields.io/badge/Editor-VS_Code?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
- 
+- 🌱 I’m currently learning programming at ALX sotware engineering internship.
 
-- 🌱 I’m currently learning programming at ALX sotware engineer internship.
+#### 🔧 Tech stack & Skills
+  ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+  ![C](https://img.shields.io/badge/-C%20-05122A?style=flat&logo=C)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; 
+  ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp; <br>
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; 
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; 
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
+  ![VSC](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)&nbsp; 
+
+  <div align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamdouhelnahla75&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br>
+  </div>
+
 - 📫 Feel free to reach out at:
        <p><a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>    <a href="https://twitter.com/MamdouhElnahla" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-</p>
+
+<a href="https://komarev.com/ghpvc/?username=mamdouhelnahla75&style=for-the-badge" >
+    <img src="https://komarev.com/ghpvc/?username=mamdouhelnahla75&style=for-the-badge" align="center">
+</a>
+ 
 <!--
 **mamdouhelnahla75/mamdouhelnahla75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,10 +57,14 @@ me.say_hi()
 - 📫 How to reach me: feel free to reach out at LinkedIn, Twiter or Gmail.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white&color=6aa6f8)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 -->
