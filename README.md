@@ -37,18 +37,18 @@ mamdouh.say_hi()
   ![VSC](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)&nbsp; 
 
   <div align="right">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamdouhelnahla75&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MamdouhEnahla&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> <br>
   </div>
 
 - 📫 Feel free to reach out at:
        <p><a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>    <a href="https://twitter.com/MamdouhElnahla" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
 
-<a href="https://komarev.com/ghpvc/?username=mamdouhelnahla75&style=for-the-badge" >
-    <img src="https://komarev.com/ghpvc/?username=mamdouhelnahla75&style=for-the-badge" align="center">
+<a href="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" >
+    <img src="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" align="center">
 </a>
  
 <!--
-**mamdouhelnahla75/mamdouhelnahla75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MamdouhEnahla/MamdouhEnahla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
