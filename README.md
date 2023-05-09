@@ -23,7 +23,7 @@ mamdouh = SoftwareEngineer()
 mamdouh.say_hi()
 ```
 
-- 🌱 I’m currently learning programming at ALX sotware engineering internship.
+- 🌱 I’m currently learning C programming at ALX sotware engineering internship.
 
 #### 🔧 Tech stack & Skills
   ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
@@ -41,7 +41,7 @@ mamdouh.say_hi()
   </div>
 
 - 📫 Feel free to reach out at:
-       <p><a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>    <a href="https://twitter.com/MamdouhElnahla" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+       <p><a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
 <a href="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" >
     <img src="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" align="center">
@@ -67,4 +67,5 @@ mamdouh.say_hi()
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
+<a href="https://twitter.com/MamdouhElnahla" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
 -->
