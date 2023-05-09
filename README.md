@@ -42,10 +42,6 @@ mamdouh.say_hi()
 
 - 📫 Feel free to reach out at:
        <p><a href="https://www.linkedin.com/in/mamdouh-ashraf-elnahla" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-
-<a href="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" >
-    <img src="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" align="center">
-</a>
  
 <!--
 **MamdouhEnahla/MamdouhEnahla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,4 +64,8 @@ mamdouh.say_hi()
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 <a href="https://twitter.com/MamdouhElnahla" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+
+<a href="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" >
+    <img src="https://komarev.com/ghpvc/?username=MamdouhEnahla&style=for-the-badge" align="center">
+</a>
 -->
