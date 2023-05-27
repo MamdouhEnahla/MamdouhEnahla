@@ -15,15 +15,15 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.language_spoken = ["ar_EG", "en_US"]
 
-    def say_hi(self):
+    def say_hello(self):
         print("Welcome, hope you find something interesting.")
 
 
 mamdouh = SoftwareEngineer()
-mamdouh.say_hi()
+mamdouh.say_hello()
 ```
 
-- 🌱 I’m currently learning C programming at ALX sotware engineering internship.
+- 🌱 I’m currently learning C programming at ALX SE internship.
 
 #### 🔧 Tech stack & Skills
   ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
